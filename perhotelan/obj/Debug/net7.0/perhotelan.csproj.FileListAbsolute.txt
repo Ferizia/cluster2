@@ -1,0 +1,15 @@
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\bin\Debug\net7.0\perhotelan.exe
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\bin\Debug\net7.0\perhotelan.deps.json
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\bin\Debug\net7.0\perhotelan.runtimeconfig.json
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\bin\Debug\net7.0\perhotelan.dll
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\bin\Debug\net7.0\perhotelan.pdb
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\perhotelan.csproj.AssemblyReference.cache
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\perhotelan.GeneratedMSBuildEditorConfig.editorconfig
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\perhotelan.AssemblyInfoInputs.cache
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\perhotelan.AssemblyInfo.cs
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\perhotelan.csproj.CoreCompileInputs.cache
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\perhotelan.dll
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\refint\perhotelan.dll
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\perhotelan.pdb
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\perhotelan.genruntimeconfig.cache
+D:\fernando valens junior ginting 12RPL\try out test\when the C is sharp\perhotelan\perhotelan\obj\Debug\net7.0\ref\perhotelan.dll
